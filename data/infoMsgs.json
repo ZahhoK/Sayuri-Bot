@@ -1,0 +1,16 @@
+{
+  "infoMsg1": [
+    "Holaaa!!!!. Mi nombre es Sayuri Hirai, y estoy muy agradecida por añadirme a tu servidor",
+    "-----------------------------------------------------",
+    "First, you must create a couple roles, these being Owner, Manager, Admin and Mod, and these roles are CaSe SeNsItIvE. That enables the permissions system to work. (NOT REALLY, IT IS RECOMMEDED THO)",
+    "-----------------------------------------------------",
+    "Next, if you want to have modlog on (which is highly recommended), you need to create a channel named #logs. After that, modlog will be enabled, no additional commands needed."
+  ],
+  "infoMsg2": [
+    "**¿Quieres invitarme?** *Aca te dejo mi [link](http://bit.ly/SayuriBot)* ",
+    "Una vez este en tu servidor, puedes ver mis comandos con: s!help ."
+  ],
+  "infoMsg3": [
+    "**[Servidor de Soporte](https://discord.gg/ZU7UZtq)**"
+  ]
+}
