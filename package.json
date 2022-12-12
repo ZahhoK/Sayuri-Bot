@@ -14,7 +14,7 @@
     "emoji-img": "^1.0.0",
     "emoji-unicode-map": "^1.1.10",
     "enmap": "^5.2.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "moment": "^2.24.0",
     "chalk": "^3.0.0",
     "quick-db": "^1.0.5",
